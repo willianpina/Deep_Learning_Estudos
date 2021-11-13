@@ -1,2 +1,3 @@
-# Deep_Learning_Estudos
-Tarefa - Deep Learnin - Mackenzie
+# DEEP LEARNING
+
+Repositório destinado para as tarefas do Módulo Deep Learning - Mackenzie 2021
